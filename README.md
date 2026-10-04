@@ -238,3 +238,40 @@ Experience Section
 Education Section
    ↓
 Contact Section
+# project Structure
+
+
+portfolio-website/
+│
+├── public/
+│   └── Static assets
+│
+├── src/
+│   ├── Components/
+│   ├── Assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── Styles/
+│
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+
+# Development Workflow
+
+Write Code
+    ↓
+Test Locally
+    ↓
+Git Add
+    ↓
+Git Commit
+    ↓
+Git Push
+    ↓
+GitHub Repository
+    ↓
+Vercel Deployment
