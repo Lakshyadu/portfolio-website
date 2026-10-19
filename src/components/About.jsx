@@ -64,7 +64,7 @@ const About = () => {
                 <Award size={24} color="var(--accent-cyan)" />
                 <div>
                   <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', textTransform: 'uppercase' }}>EXPERIENCE</div>
-                  <div style={{ fontWeight: 700, color: 'var(--text-primary)' }}>2+ year working in data filed</div>
+                  <div style={{ fontWeight: 700, color: 'var(--text-primary)' }}>2+ Years of Experience in Data Analytics</div>
                 </div>
               </div>
             </div>
