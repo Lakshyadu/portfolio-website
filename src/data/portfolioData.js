@@ -217,10 +217,10 @@ export const experienceData = [
     location: "Remote",
     description: "Cut manual analysis time on enterprise datasets by applying generative AI tools to automate reporting workflows, producing insight-ready visual dashboards aligned with enterprise analytics standards.",
     technologies: ["Generative AI", "Automated Workflows", "Enterprise Dashboards", "Data Analytics"]
-  }
-   {
+  },
+  {
     id: 4,
-    period: "July 2026",
+    period: "July 2026-Aug 2026",
     role: "Data Analyst",
     company: "kaushalsaathi",
     location: "Remote",
