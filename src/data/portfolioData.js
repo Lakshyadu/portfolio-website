@@ -178,7 +178,7 @@ export const projectsData = [
     image: "/assets/project_analytics.jpg",
     description: "Built a binary classification pipeline to automatically flag faulty industrial and IoT sensor readings, replacing slower manual inspection with a data-driven detection workflow.",
     tags: ["Python", "Scikit-learn", "Pandas", "NumPy", "Jupyter Notebook", "EDA"],
-    demoUrl: "https://github.com/Lakshyadu/Sensor-fault-detection-using-Machine-learing-.git",
+    demoUrl: "https://github.com/Lakshyadu/Sensor-fault-detection-using-Machine-learing-.git ",
     githubUrl: "https://github.com/Lakshyadu",
     featured: true,
     fullDetails: {
@@ -218,13 +218,38 @@ export const experienceData = [
     description: "Cut manual analysis time on enterprise datasets by applying generative AI tools to automate reporting workflows, producing insight-ready visual dashboards aligned with enterprise analytics standards.",
     technologies: ["Generative AI", "Automated Workflows", "Enterprise Dashboards", "Data Analytics"]
   }
+   {
+    id: 4,
+    period: "July 2026",
+    role: "Data Analyst",
+    company: "kaushalsaathi",
+    location: "Remote",
+    description: "Collected, cleaned, and structured raw datasets using Python (Pandas, NumPy) and SQL to prepare them for analysis, improving data accuracy and consistency for downstream reporting
+
+ 
+
+Built interactive dashboards in Power BI/Tableau to visualize key trends, enabling the team to track performance metrics without manual data pulls
+
+ 
+
+Performed exploratory data analysis to identify patterns and anomalies in [type of data], supporting more informed, data-backed decisions
+
+ 
+
+Wrote SQL queries to extract and aggregate data from [database/source], streamlining reporting for [team/manager]
+
+ 
+
+Collaborated with [team/mentor] to translate business questions into structured analyses and clear, actionable visual reports",
+    technologies: ["Generative AI", "Automated Workflows", "Enterprise Dashboards", "Data Analytics"]
+  }
 ];
 
 export const educationData = [
   {
     id: 1,
     degree: "Master of Computer Application (MCA)",
-    institution: "Maharishi Information Technology",
+    institution: "Maharishi Insitute of Information and Technology ",
     location: "Lucknow, India",
     period: "Sep 2025 – Jun 2027",
     score: "Enrolled / Pursuing"
