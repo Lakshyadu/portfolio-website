@@ -224,23 +224,7 @@ export const experienceData = [
     role: "Data Analyst",
     company: "kaushalsaathi",
     location: "Remote",
-    description: "Collected, cleaned, and structured raw datasets using Python (Pandas, NumPy) and SQL to prepare them for analysis, improving data accuracy and consistency for downstream reporting
-
- 
-
-Built interactive dashboards in Power BI/Tableau to visualize key trends, enabling the team to track performance metrics without manual data pulls
-
- 
-
-Performed exploratory data analysis to identify patterns and anomalies in [type of data], supporting more informed, data-backed decisions
-
- 
-
-Wrote SQL queries to extract and aggregate data from [database/source], streamlining reporting for [team/manager]
-
- 
-
-Collaborated with [team/mentor] to translate business questions into structured analyses and clear, actionable visual reports",
+    description: "Collected, cleaned, and structured raw datasets using Python (Pandas, NumPy) and SQL to prepare them for analysis, improving data accuracy and consistency for downstream reporting",
     technologies: ["Generative AI", "Automated Workflows", "Enterprise Dashboards", "Data Analytics"]
   }
 ];
